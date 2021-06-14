@@ -1,4 +1,5 @@
 # Ubuntu-Desktop-RME
+![Screenshot](https://user-images.githubusercontent.com/6007737/121964547-ffb24500-cd6b-11eb-8156-f1f92ded71fa.jpg)
 
 ## Settings
 * Full Disk Encryption : During installation, LVM/LUKS
